@@ -1,0 +1,10 @@
+# Local source assets retained outside the deployed site
+assets/**/*.png
+assets/icons/*-source.jpg
+assets/icons/codex.svg
+assets/icons/photoshop.svg
+assets/works/trex-reference*.jpg
+
+# Operating-system files
+Thumbs.db
+.DS_Store
