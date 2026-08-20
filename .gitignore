@@ -1,9 +1,11 @@
-# Local source assets retained outside the deployed site
+# Local archive and source assets retained outside the deployed site
+DESIGN_NOTES.md
+portfolio-legacy-*.html
+TalonX-portfolio-*.html
+assets/*.pdf
+assets/icons/
+assets/works/
 assets/**/*.png
-assets/icons/*-source.jpg
-assets/icons/codex.svg
-assets/icons/photoshop.svg
-assets/works/trex-reference*.jpg
 
 # Operating-system files
 Thumbs.db
